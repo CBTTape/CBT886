@@ -1,0 +1,12 @@
+2025-04-13 23:47:31.098199 - Received CBT.V505.FILE886.PDS from FILE886.XMI 
+2025-04-13 23:47:31.099356 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE886.PDS, moved to PDS/$$$#DATE
+2025-04-13 23:47:31.099441 - Found $$INDEX.txt (text/plain) in CBT.V505.FILE886.PDS, moved to PDS/$$INDEX
+2025-04-13 23:47:31.099512 - Found $$NOTE01.txt (text/plain) in CBT.V505.FILE886.PDS, moved to PDS/$$NOTE01
+2025-04-13 23:47:31.099577 - Found $$NOTE02.txt (text/plain) in CBT.V505.FILE886.PDS, moved to PDS/$$NOTE02
+2025-04-13 23:47:31.099638 - Found ##INTNEW.jcl (text/plain) in CBT.V505.FILE886.PDS, moved to PDS/##INTNEW
+2025-04-13 23:47:31.099698 - Found ##INTVOL.jcl (text/plain) in CBT.V505.FILE886.PDS, moved to PDS/##INTVOL
+2025-04-13 23:47:31.099759 - Found @FILE886.txt (text/plain) in CBT.V505.FILE886.PDS, moved to PDS/@FILE886
+2025-04-13 23:47:31.099826 - Found INTNEWRX.rexx (text/plain) in CBT.V505.FILE886.PDS, moved to PDS/INTNEWRX
+2025-04-13 23:47:31.099904 - Found INTVOLRX.rexx (text/plain) in CBT.V505.FILE886.PDS, moved to PDS/INTVOLRX
+2025-04-13 23:47:31.099971 - Found MBWAIT.txt (text/plain) in CBT.V505.FILE886.PDS, moved to PDS/MBWAIT
+2025-04-13 23:47:31.100038 - Found UCBSCAN.txt (text/plain) in CBT.V505.FILE886.PDS, moved to PDS/UCBSCAN
